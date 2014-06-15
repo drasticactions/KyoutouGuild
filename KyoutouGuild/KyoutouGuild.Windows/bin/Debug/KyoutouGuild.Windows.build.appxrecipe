@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LOGIC-PC</Machine>
+    <WindowsUser>Timothy</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bde217ed-7ceb-4f43-9620-64c5887b941c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\bin\Debug\KyoutouGuild.Windows.exe">
+      <PackagePath>KyoutouGuild.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild.Core\bin\Debug\KyoutouGuild.Core.dll">
+      <PackagePath>KyoutouGuild.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild.Core\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Shared\Assets\Login\LoginImage.jpg">
+      <PackagePath>Assets\Login\LoginImage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\bin\Debug\Pages\LoginPage.xbf">
+      <PackagePath>Pages\LoginPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\bin\Debug\KyoutouGuild.Windows.xr.xml">
+      <PackagePath>KyoutouGuild.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

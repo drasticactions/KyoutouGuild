@@ -1,0 +1,2 @@
+C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild.Core\KyoutouGuild.Core.csproj;neutral
+C:\Users\Timothy\Documents\GitHub\KyoutouGuild\KyoutouGuild\KyoutouGuild.WindowsPhone\KyoutouGuild.WindowsPhone.csproj;neutral

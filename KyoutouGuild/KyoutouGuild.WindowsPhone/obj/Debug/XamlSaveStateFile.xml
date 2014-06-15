@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\timothy\documents\github\kyoutouguild\kyoutouguild\kyoutouguild.windowsphone\obj\debug\intermediatexaml\kyoutouguild.windowsphone.exe" HashGuid="c64227d5-28e1-95d8-4fa4-797424516f7a" />
+    <ReferenceAssembly PathName="c:\users\timothy\documents\github\kyoutouguild\kyoutouguild.core\bin\debug\kyoutouguild.core.dll" HashGuid="f8b5007b-503c-8775-6905-fe777470705d" />
+    <ReferenceAssembly PathName="c:\users\timothy\documents\github\kyoutouguild\packages\newtonsoft.json.6.0.3\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="c79997c3-e7ec-c6d9-80a0-b6fbe9a32ff1" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
